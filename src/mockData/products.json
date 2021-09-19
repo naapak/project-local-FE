@@ -1,0 +1,249 @@
+[
+  {
+    "Fruits": [
+      {
+        "image": "https://i.ibb.co/4sCgsZ9/Blueberries.png",
+        "description": "Blueberries range in colour from a deep purple-blue to a blue-black, both with a silvery sheen called bloom.",
+        "title": "Blueberries",
+        "date": "Nov 12",
+        "imageText": "Picture of Blueberries",
+        "availableQty" : 5,
+        "size": "510 g",
+        "price": "5.99",
+        "sku": "123456780",
+        "qtyAvailable": 0,
+        "taxable": "yes",
+        "taxRate": "1.3",
+        "salePrice": ""
+      },
+      {
+        "image": "https://i.ibb.co/2vNSxnJ/Strawberries.png",
+        "description": "Strawberries vary in colour, shape, and size but their flavour is distinctively sweet.",
+        "title": "Strawberries 2 LB",
+        "date": "Nov 12",
+        "imageText": "Picture of Strawberries",
+        "availableQty" : 2,
+        "size": "2 EA",
+        "price": "4.99",
+        "sku": "123456781"
+      },
+      {
+        "image": "https://i.ibb.co/444dVZR/Red-Cherries.png",
+        "description": "Bing cherries are firm, juicy, and sweet and turn from dark red to almost black when fully ripe.",
+        "title": "Red Cherries",
+        "date": "Nov 12",
+        "imageText": "Picture of Cherries",
+        "availableQty" : 2,
+        "size": "0.89 KG",
+        "price": "9.79",
+        "sku": "123456782"
+      },
+      {
+        "image": "https://i.ibb.co/4Jh8y7P/Green-Seedless-Grapes.png",
+        "description": "Green grapes range in colour from pale green to amber yellow and are considered white grape varieties.",
+        "title": "Green Seedless Grapes",
+        "date": "Nov 12",
+        "imageText": "Picture of Green Grapes",
+        "availableQty" : 10,
+        "size": "1 KG",
+        "price": "9.99",
+        "sku": "123456783"
+      },
+      {
+        "image": "https://i.ibb.co/9G8BhXg/Red-Seedless-Grapes.png",
+        "description": "Red grapes, such as the popular Flame and Ruby varieties, should be plump and firmly attached to green stems.",
+        "title": "Red Seedless Grapes",
+        "date": "Nov 12",
+        "imageText": "Picture of Red Grapes",
+        "availableQty" : 2,
+        "size": "1 KG",
+        "price": "9.99",
+        "sku": "123456784"
+      },
+      {
+        "image": "https://i.ibb.co/f94rrdn/Cantaloupe.png",
+        "description": "Average weight is 3 lb. Cantaloupes have a greyish-beige skin with a raised netting overtop. The flesh is pale orange, juicy, and sweet.",
+        "title": "Cantaloupe",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "3.99",
+        "sku": "123456785"
+      },
+      {
+        "image": "https://i.ibb.co/BrQV5HC/Kiwi.png",
+        "description": "Green kiwis are egg-shaped with fuzzy brown skin. Inside, their green flesh is speckled with tiny black edible seeds and their flavour is sweet and sometimes tart.",
+        "title": "Kiwis",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "0.89",
+        "sku": "123456786"
+      }
+    ]
+  },
+  {
+    "Vegetables": [
+      {
+        "image": "https://i.ibb.co/pPwNdsL/Cucumbers.png",
+        "description": "English (or hothouse) cucumbers are cylindrical green-skinned fruit with a crisp white flesh and edible seeds. English cucumbers are typically enjoyed raw and can be peeled.",
+        "title": "English Cucumber",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "1.69",
+        "sku": "123456791"
+      },
+      {
+        "image": "https://i.ibb.co/GCTZ6JB/Broccoli.png",
+        "description": "Broccoli is a cruciferous vegetable that comes in a tight cluster of florets on top of firm, edible stalks.",
+        "title": "Broccoli",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "3.99",
+        "sku": 123456792
+      },
+      {
+        "image": "https://i.ibb.co/b6sVWwN/Zucchini.png",
+        "description": "Zucchini are summer squash with dark to light green skin, white flesh, and tiny edible seeds.",
+        "title": "Zucchini",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "1.23",
+        "sku": 123456793
+      },
+      {
+        "image": "https://i.ibb.co/JQnVRd5/Cauliflower.png",
+        "description": "Cauliflower is a cruciferous vegetable that comes in a tight cluster of florets surrounded by crisp green leaves.",
+        "title": "Cauliflower",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "3.99",
+        "sku": 123456794
+      },
+      {
+        "image": "https://i.ibb.co/XpbRQPf/Celery-Stalks.png",
+        "description": "Celery has a cluster of pale green leaved ribs surrounding a heart (inner ribs). Trimmed celery leaves can be used as a garnish or added to a mixed greens salad.",
+        "title": "Celery Stalks",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "2.99",
+        "sku": 123456795
+      },
+      {
+        "image": "https://i.ibb.co/G7sySfS/Asparagus.png",
+        "description": "Asparagus stalks range in colour from green to purple, with dark green or purplish tips. Thickness is not a reliable indicator of tenderness, and asparagus is best enjoyed the day of.",
+        "title": "Asparagus (1 lb)",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "6.49",
+        "sku": 123456796
+      },
+      {
+        "image": "https://i.ibb.co/PFy3PM7/Green-Peppers.png",
+        "description": "Green bell peppers have a bright green skin and mild, sweet flavour. Their flesh is crisp and juicy, perfect for enjoying raw with dips or hummus.",
+        "title": "Sweet Green Peppers",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "1 EA",
+        "price": "1.85",
+        "sku": 123456797
+      }
+    ]
+  },
+  {
+    "Salty Snacks": [
+      {
+        "image": "https://assets.shop.loblaws.ca/products/21369097/b1/en/front/21369097_front_a01_@2.png",
+        "description": "",
+        "title": "Doritos Jalapeno & Cheddar",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "210 g",
+        "price": "3.99",
+        "sku": 123456770
+      },
+      {
+        "image": "https://assets.shop.loblaws.ca/products/21369118/b1/en/front/21369118_front_a01_@2.png",
+        "description": "",
+        "title": "Doritos Nacho Cheese",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "235 g",
+        "price": "3.99",
+        "sku": 123456771
+      },
+      {
+        "image": "https://assets.shop.loblaws.ca/products/21240628/b1/en/front/21240628_front_a01_@2.png",
+        "description": "",
+        "title": "Miss Vickies Sea Salt & Malt Vinegar Potato Chips",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "200 g",
+        "price": "3.99",
+        "sku": 123456772
+      },
+      {
+        "image": "https://assets.shop.loblaws.ca/products/21241146/b1/en/front/21241146_front_a01_@2.png",
+        "description": "",
+        "title": "Ruffles Sour Cream & Onion Potato Chips",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "200 g",
+        "price": "3.99",
+        "sku": 123456773
+      },
+      {
+        "image": "https://assets.shop.loblaws.ca/products/21241053/b1/en/front/21241053_front_a01_@2.png",
+        "description": "",
+        "title": "Ruffles Regular Potato Chips",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "200 g",
+        "price": "3.99",
+        "sku": 123456774
+      },
+      {
+        "image": "https://assets.shop.loblaws.ca/products/21241033/b1/en/front/21241033_front_a01_@2.png",
+        "description": "",
+        "title": "Lay's Ketchup Potato Chips",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "235 g",
+        "price": "3.99",
+        "sku": 123456775
+      },
+      {
+        "image": "https://assets.shop.loblaws.ca/products/21369106/b1/en/front/21369106_front_a01_@2.png",
+        "description": "",
+        "title": "Doritos Cool Ranch Chips",
+        "date": "Nov 12",
+        "imageText": "Image Text",
+        "availableQty" : 2,
+        "size": "235 g",
+        "price": "3.99",
+        "sku": 123456776
+      }
+    ]
+  }
+]
