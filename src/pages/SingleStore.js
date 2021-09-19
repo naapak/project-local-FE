@@ -137,12 +137,12 @@ function TabPanel(props) {
 
 const storeInformation = {
   title: "Ed's Market",
-  description: "Welcome to ed's store. You get the best products in town",
+  description: "Welcome to Ed's store. The products you need at the price you want!",
   Address: "123 Main Street",
   Address2: "Niagara Falls, A1B 2C3",
-  image: "https://source.unsplash.com/random",
+  image: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F428432%2Fgrocerystore.jpg&w=1200&op=resize",
   imageText: "Ed Market",
-  ordering: ["pickup", "Delivery"]
+  ordering: ["Pickup", "Delivery"]
 };
 
 TabPanel.propTypes = {
