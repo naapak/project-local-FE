@@ -1,0 +1,30 @@
+version: 2.1 # use CircleCI 2.0
+
+orbs:
+  heroku: circleci/heroku@1.2.6 # Use the Heroku orb in your config
+
+jobs: # a collection of steps
+  build: # runs not using Workflows must have a `build` job as entry point
+    docker: # run the steps with Docker
+      - image: circleci/node:14.16.0 # ...with this image as the primary container; this is where all `steps` will run
+    working_directory: ~/repo
+    steps: # a collection of executable commands
+      - checkout # special step to check out source code to working directory
+      - run:
+          name: Install Dependencies
+          command: cd client && npm install
+      - run:
+          name: Install Dependencies
+          command: cd client && npm run build
+
+workflows:
+  heroku_deploy:
+    jobs:
+      - build
+      - heroku/deploy-via-git:
+          requires:
+            - build # only run deploy-via-git job if the build job has completed
+          filters:
+            branches:
+              only: master # only run deploy-via-git job on master branch
+
