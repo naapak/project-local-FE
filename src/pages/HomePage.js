@@ -15,44 +15,44 @@ const useStyles = makeStyles(theme => ({
 
 const featuredPosts = [
   {
-    title: "Featured post",
+    title: "Ed's Market",
     date: "Nov 12",
     description:
-      "This is a wider card with supporting text below as a natural lead-in to additional content.",
-    image: "https://source.unsplash.com/random",
+      "Welcome to Ed's store. The products you need at the price you want!",
+    image: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F428432%2Fgrocerystore.jpg&w=1200&op=resize",
     imageText: "Image Text",
     ordering: ["Pickup", "Delivery"],
     store: 123451,
     storeName: "EdMarket"
   },
   {
-    title: "Post title",
+    title: "Farmers Market",
     date: "Nov 11",
     description:
-      "This is a wider card with supporting text below as a natural lead-in to additional content.",
-    image: "https://source.unsplash.com/random",
+      "Farmers Market is one place to get all your local produce.",
+    image: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F428432%2Fgrocerystore.jpg&w=1200&op=resize",
     imageText: "Image Text",
     ordering: ["Pickup"],
     store: 123452,
-    storeName: "EdMarket"
+    storeName: "FarmMarket"
   },
   {
-    title: "Featured post",
+    title: "John's Market",
     date: "Nov 12",
     description:
-      "This is a wider card with supporting text below as a natural lead-in to additional content.",
-    image: "https://source.unsplash.com/random",
+      "Welcome to John's Market. Your Favourite Market in Toronto.",
+    image: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F428432%2Fgrocerystore.jpg&w=1200&op=resize",
     imageText: "Image Text",
     ordering: ["Delivery"],
     store: 123453,
     storeName: "EdMarket"
   },
   {
-    title: "Post title",
+    title: "Ted Market",
     date: "Nov 11",
     description:
-      "This is a wider card with supporting text below as a natural lead-in to additional content.",
-    image: "https://source.unsplash.com/random",
+      "Welcome enjoy all the local produce we have to offer.",
+    image: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F428432%2Fgrocerystore.jpg&w=1200&op=resize",
     imageText: "Image Text",
     ordering: ["Pickup", "Delivery"],
     store: 123454,

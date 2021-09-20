@@ -100,13 +100,13 @@ const useStyles = makeStyles(theme => ({
 
 const steps = ["CONTACT", "ADDRESS", "REVIEW", "PAYMENT"];
 const post =  {
-  title: "Featured post",
+  title: "Ed's Market",
   date: "Nov 12",
   description:
-      "This is a wider card with supporting text below as a natural lead-in to additional content.",
-  image: "https://source.unsplash.com/random",
+      "Welcome to Ed's store. The products you need at the price you want!",
+  image: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F428432%2Fgrocerystore.jpg&w=1200&op=resize",
   imageText: "Image Text",
-  ordering: ["pickup", "Delivery"],
+  ordering: ["Pickup", "Delivery"],
   store: 123451,
   storeName: "EdMarket"
 };
